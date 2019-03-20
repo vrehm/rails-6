@@ -1,0 +1,7 @@
+# .postcssrc.yml
+
+plugins:
+  postcss-import: {}
+  postcss-cssnext: {}
+  autoprefixer: {}
+  tailwindcss: './app/javascript/css/tailwind.js'
